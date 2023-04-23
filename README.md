@@ -3,9 +3,9 @@
 <a href="https://github.com/Nourhan650?tab=repositories"><img style="   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 60%; " src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&color=2FA2D5&multiline=true&width=470&height=150&lines=%2F%2F+Hi+there+%F0%9F%91%8B;%7B;%22name%22++++++%3A+%22Nourhan+Mohamed+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%22+%2C;%22title%22+%3A+%22Junior+Data Science+Developer+%F0%9F%93%B1%22+%2C;%7D" alt="Nourhan Mohamed" /></a>
+  width: 60%; " src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&color=2FA2D5&multiline=true&width=470&height=150&lines=%2F%2F+Hi+there+%F0%9F%91%8B;%7B;%22name%22++++++%3A+%22Nourhan+Mohamed+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%22+%2C;%22title%22+%3A+%22Junior+Data scientist+Developer+%F0%9F%93%B1%22+%2C;%7D" alt="Nourhan Mohamed" /></a>
 
-I'm Nourhan from Egypt, Sohag, and , I have a deep interest in computer science, and I am learning programming, Junior Data Science and python programming language, and I am a Graphic Designer who has years of experience  
+I'm Nourhan from Egypt, Sohag, and , I have a deep interest in computer science, and I am learning programming, Junior Data scientist and python programming language, and I am a Graphic Designer who has years of experience  
 
 ## Skills: 
 * Data Science
