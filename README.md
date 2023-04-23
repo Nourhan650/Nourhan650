@@ -1,7 +1,5 @@
 
 
-![Junior Data Science Developer]
-
 <a href="https://github.com/Nourhan650?tab=repositories"><img style="   display: block;
   margin-left: auto;
   margin-right: auto;
